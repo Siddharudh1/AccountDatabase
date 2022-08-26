@@ -99,7 +99,7 @@ public class Accounts {
 		}
 		catch(Exception e) {
 			e.printStackTrace();
-			//main(args);
+			main(args);
 		}
 	}
 }
